@@ -22,10 +22,17 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
   color: #61dafb;
+}
+.Fourthcomponent{
+  background-color: #26deeb;
+  min-height: 50vh;
+  
+
 }
 
 @keyframes App-logo-spin {
