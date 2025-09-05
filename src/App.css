@@ -31,8 +31,18 @@
 .Fourthcomponent{
   background-color: #26deeb;
   min-height: 50vh;
-  
-
+}
+.links{
+  margin: 5px;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: 700;
+  background-color: crimson;
+  padding: 7px;
+  margin-top: 40px;
+  border-radius: 20px;
+  color: white;
 }
 
 @keyframes App-logo-spin {
